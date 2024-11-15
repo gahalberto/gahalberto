@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Gabriel, um desenvolvedor full stack apaixonado por criar soluções e solucionar problemas!
 
-<a href="https://instagram.com/yossistanislav"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-"/></a>
+<a href="https://instagram.com/yossistanislav">(https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)</a>
 <a href="https://guib.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="[https://www.linkedin.com/in/felipe-rocha-034871172](http://www.linkedin.com/in/gahalberto)"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:gahalberto@icloud.com"><img src="https://img.shields.io/badge/-felipemota.rocha@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
