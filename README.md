@@ -13,8 +13,7 @@
 
 ## 🛠️ Tech Stack
 - **Front-end**: React, Next.js
-- [![Instagram]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-))](https://www.instagram.com/yossistanislav)
+[![Instagram](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.instagram.com/yossistanislav)
 
 - **Back-end**: Node.js, Express, Python
 - **Mobile**: React Native
