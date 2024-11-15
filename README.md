@@ -13,7 +13,8 @@
 
 ## 🛠️ Tech Stack
 - **Front-end**: React, Next.js
-- [![Instagram]([https://img.shields.io/badge/Instagram-%40yossistanislav-pink](https://camo.githubusercontent.com/578c92902e9868515a7b2716611a0f6a3ae8421e0b19e4b9458c8f007198aa64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3333333333333f7374796c653d666c6174266c6f676f3d74797065736372697074266c6f676f436f6c6f723d324437394337))](https://www.instagram.com/yossistanislav)
+- [![Instagram]([https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+))](https://www.instagram.com/yossistanislav)
 
 - **Back-end**: Node.js, Express, Python
 - **Mobile**: React Native
