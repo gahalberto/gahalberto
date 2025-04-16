@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Gabriel, um desenvolvedor full stack apaixonado por criar soluções e solucionar problemas!
+# 👋 Hi, I'm Gabriel, a full stack developer passionate about creating solutions and solving problems!
 
 [![General badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/yossistanislav/)
@@ -9,10 +9,10 @@
 
 
 ## 🧑‍💻 About me
-- 🧑‍💻 Comecei a programar aos 15 anos, inspirado pelo jogo Habbo Hotel, com o sonho de criar meu próprio servidor. Depois de muitas horas assistindo tutoriais online e estudando PHP e MySQL, aprendi a configurar uma VPS e finalmente consegui colocar o servidor no ar. Era um "Habbo" só meu! No entanto, o servidor não atraía muitos jogadores, e eu percebi que o que realmente me motivava era a ideia de construir uma comunidade. Então, criei um fã-site para o Habbo Hotel, com uma rádio com locutores, um blog de notícias sobre o jogo e um fórum para os jogadores interagirem. No primeiro mês, o site recebeu mais de 15 mil visitas, e foi nesse momento que me apaixonei por programação e pela criação de comunidades online.
-- 💚 Após anos aprendendo programção, me afastei por motivos pessoais e fora do Brasil descobri que minha maior paixão é criar soluções para a sociedade/mercado e criar comunidades fíeis ao produto.
-- 🚀 Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile. Utilizo a stack JavaScript (Node, React & React Native) para desenvolver em ambas as frentes.
-- 🤖 Sou Apaixonado por IA e como ela pode nós ajudar a automatizar processos, analisar dados para melhor atender a sociedade. Hoje muitos dos meus projetos tem IA de certa forma. Hoje dedico parte do meu conhecimento a criação de IA. 
+- 🧑‍💻 I started programming when I was 15, inspired by the game Habbo Hotel, with the dream of creating my own server. After many hours watching online tutorials and studying PHP and MySQL, I learned how to set up a VPS and finally managed to get the server up and running. It was my own "Habbo"! However, the server didn't attract many players, and I realized that what really motivated me was the idea of ​​building a community. So I created a Habbo Hotel fan site, with a radio with announcers, a blog with news about the game and a forum for players to interact. In the first month, the site received over 15 thousand visits, and it was at that moment that I fell in love with programming and creating online communities.
+- 💚 After years of learning programming, I stepped away for personal reasons and outside of Brazil I discovered that my greatest passion is creating solutions for society/market and creating communities loyal to the product.
+- 🚀 Currently, my main focus in my career is web and mobile development. I use the JavaScript stack (Node, React & React Native) to develop on both fronts.
+- 🤖 I am passionate about AI and how it can help us automate processes and analyze data to better serve society. Today, many of my projects involve AI in some way. Today, I dedicate part of my knowledge to creating AI.
 
 ## 🛠️ Tech Stack
 <h3>💻 &nbsp;Front-end:</h3>
@@ -26,7 +26,7 @@
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<h3>⚙️ &nbsp;Back-end:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
